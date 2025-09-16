@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sharika Loganathan! 👋
 
 <!--
 **sharikalog7/sharikalog7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I’m Sharika Loganathan
-Data Scientist and AI/ML practitioner. I build intelligent systems and scalable data solutions. My current focus is on LLMs, developing agentic AI systems, and implementing RAG architectures. Explore my repositories for projects involving Hugging Face, predictive modeling, and data pipelines.
+
+I'm a Data Scientist and AI Engineer with a passion for building intelligent, scalable solutions. With 4+ years of experience across healthcare, consulting, and finance, I specialize in transforming complex data into actionable insights and high-impact products.
+
+My work centers around Large Language Models (LLMs), agentic AI, and RAG (Retrieval-Augmented Generation) systems. I thrive on solving real-world problems by leveraging cutting-edge technologies and a deep understanding of data.
 
 🌐 Check out my website:https://sharikaloganathan.com/
