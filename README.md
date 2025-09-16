@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I’m Sharika Loganathan, a Data Scientist passionate about AI and Machine Learning.  
+# I’m Sharika Loganathan
+Data Scientist and AI/ML practitioner. I build intelligent systems and scalable data solutions. My current focus is on LLMs, developing agentic AI systems, and implementing RAG architectures. Explore my repositories for projects involving Hugging Face, predictive modeling, and data pipelines.
 
 🌐 Check out my website:https://sharikaloganathan.com/
