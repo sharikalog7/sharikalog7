@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m Sharika Loganathan, a Data Scientist passionate about AI and Machine Learning.  
+
+🌐 Check out my website:https://sharikaloganathan.com/
